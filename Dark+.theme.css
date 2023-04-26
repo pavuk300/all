@@ -955,7 +955,7 @@ button[aria-label="Send a gift"] {
 .typeWindows-2-g3UY {
   position: relative;
 }
-/*
+
 .wordmark-2u86JB {
   display: flex;
   align-items: center;
@@ -967,6 +967,7 @@ button[aria-label="Send a gift"] {
   font-family: "Lato";
   color: var(--darkplus-sec);
 }
+/*
 .wordmark-2u86JB > svg {
   display: none;
 }
